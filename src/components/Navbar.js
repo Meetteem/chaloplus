@@ -36,8 +36,8 @@ export default function Navbar() {
                     <Link href="/aboutus">
                         <div className="text-black hover:text-gray-300">About Us</div>
                     </Link>
-                    <Link href="/srchsrc">
-                        <div className="text-black hover:text-gray-300">Search by Source</div>
+                    <Link href="/excel">
+                        <div className="text-black hover:text-gray-300">Excel</div>
                     </Link>
                     <Link href="/srchdest">
                         <div className="text-black hover:text-gray-300">Search by Destination</div>
